@@ -94,3 +94,5 @@ To explore or extend this project:
 
 ## 📬 Contact
 - [Email](adewaleabdulmuiz75@gmail.com)
+
+👉 For detailed KPI analysis, visit the [Project Wiki](https://github.com/DevMuzee/Agricultural_revenue_performance/wiki)
